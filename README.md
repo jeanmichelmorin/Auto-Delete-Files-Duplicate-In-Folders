@@ -21,6 +21,7 @@ Adapt the files so it matches your paths and files you want to remove if duplica
 
 ### Option 2: Run it from the script.
 Save it as a .ps1 file, e.g. dedupe.ps1. Before you can run PowerShell scripts, you'll need to enable their execution:
+
 `Set-ExecutionPolicy Unrestricted -Scope CurrentUser`
 
 Then you'll be able to invoke it with .\dedupe.ps1 when you're in the folder that contains it.
