@@ -6,7 +6,9 @@ This is essentially a better approach to [Ben N's answer](https://superuser.com/
 # /!\ WARNING /!\ 
 If you have to use this on important file, I recommend doing a backup, then a few tests using non-important txt files beforehand to make sure you understand how it works. <b>Deleted files won't be recoverable</b>.
 
-Also, my script goes into <b>subfolders</b> to find a duplicate file to delete. This may be important to consider. If you don't want that, just remove `-recurse`.
+Also, my script goes into <b>subfolders</b> to find a duplicate file to delete. This may be important to consider. If you don't want that, just remove:
+
+`-recurse`
 
 # Usage example:
 
