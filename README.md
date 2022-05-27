@@ -12,7 +12,7 @@ Also, my script goes into <b>subfolders</b> to find a duplicate file to delete. 
 
 # Usage example:
 
-[Google Takeout](https://takeout.google.com/) allows you, for example, of exporting all of the photos from your Google Photos. It will make a `.zip` containing folders with photos classified by year (2018, 2019, 2020, etc...), but will also make folders of the photos in your albums (if you decide to export the albums as well).
+[Google Takeout](https://takeout.google.com/) allows you, for example, to export all of the photos from your Google Photos. It will make a `.zip` containing folders with photos classified by year (2018, 2019, 2020, etc...), but will also make folders of the photos in your albums (if you decide to export the albums as well).
 
 The problem, is that Google duplicates, for example, your photo from 2018 and the photo of your album. So if the photo is 2MB, because it's also in the album and the year folder, it ends up taking 4MB of space in total on your drive.
 
