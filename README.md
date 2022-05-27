@@ -4,7 +4,7 @@ Powershell script which compares file names between 2 folders (or more), then de
 This is essentially a better approach to [Ben N's answer](https://superuser.com/a/1093799) which only allowed 1 folder to compare and delete.
 
 # /!\ WARNING /!\ 
-If you have to use this on important files, I recommend doing a backup, then a few tests using non-important txt files beforehand to make sure you understand how it works. <b>Deleted files won't be recoverable</b>.
+If you have to use this on important file, I recommend doing a backup, then a few tests using non-important txt files beforehand to make sure you understand how it works. <b>Deleted files won't be recoverable</b>.
 
 # How to make it work
 
