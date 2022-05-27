@@ -8,7 +8,8 @@ If you have to use this on important files, I recommend doing a backup, then a f
 
 # How to make it work
 
-## 1: Adapt the files so it matches your paths and files you want to remove if duplicate.
+## 1: Adapt the files to your need
+Adapt the files so it matches your paths and files you want to remove if duplicate.
 
 ## 2: Execute it (2 methods)
 
